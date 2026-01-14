@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:2987631408@qq.com">
     <img src="https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square" alt="Email">
   </a>
-  <a href="https://blog.csdn.net/your_id">
+  <a href="https://blog.csdn.net/qq_38901232">
     <img src="https://img.shields.io/badge/-CSDN-black?labelColor=black&logo=csdn&logoColor=white&style=flat-square" alt="CSDN">
   </a>
 </p>
