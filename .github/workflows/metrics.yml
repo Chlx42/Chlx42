@@ -1,0 +1,41 @@
+name: Metrics
+on:
+  # Schedule daily updates (北京时间每天早上8点更新)
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Leeee1006
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # 🎨 风格设置：透明背景，适应任何主题
+          config_display: large
+          config_padding: 0, 10 + 5%
+          
+          # 📊 语言统计 (Languages)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_details: lines, percentage
+          
+          # 📅 3D 活跃日历 (Isocalendar) - 看起来非常高级的时间统计
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
