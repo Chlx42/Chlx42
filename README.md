@@ -43,7 +43,10 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeee1006)
+<div align="center">
+  <h3>📊</h3>
+  <img src="https://github.com/Leeee1006/Leeee1006/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 [lang-java]: https://img.shields.io/badge/-Java-000?style=flat-square&logoColor=white&logo=openjdk
 [lang-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
