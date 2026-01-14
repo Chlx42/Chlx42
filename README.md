@@ -43,10 +43,7 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeee1006&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&text_color=8b949e&icon_color=06B6D4" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeee1006&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=8b949e" height="150" alt="languages graph" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeee1006)
 
 [lang-java]: https://img.shields.io/badge/-Java-000?style=flat-square&logoColor=white&logo=openjdk
 [lang-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
