@@ -36,7 +36,7 @@
 | :--------------- | :------------------------------------------------------------------------------------------------------------- |
 | **Languages** | ![][lang-java] ![][lang-cpp] ![][lang-python] ![][lang-shell] |
 | **Backend** | ![][back-spring] ![][back-mybatis] ![][back-netty] ![][back-maven] |
-| **Database** | ![][db-mysql] ![][db-redis] ![][db-elasticsearch]     |
+| **Database** | ![][db-mysql] ![][db-redis]  |
 | **DevOps & OS** | ![][ops-docker] ![][ops-linux] ![][ops-git] ![][ops-nginx]                                                                            |
 | **IDE & Tools** | ![][ide-idea] ![][ide-vscode] ![][tool-postman]                                                                    |
 
