@@ -16,9 +16,11 @@
   <a href="https://blog.csdn.net/qq_38901232">
     <img src="https://img.shields.io/badge/-CSDN-black?labelColor=black&logo=csdn&logoColor=white&style=flat-square" alt="CSDN">
   </a>
-<a href="https://lixuan.live">
-    <img src="https://img.shields.io/badge/-Blog-black?labelColor=black&logo=astro&logoColor=white&style=flat-square" alt="我的博客">
-  </a>
+</p>
+<p align="center">
+  👉 <a href="https://lixuan.live">
+    <img src="https://img.shields.io/badge/Explore_My_Blog-000000?style=for-the-badge&logo=astro&logoColor=white" alt="我的博客">
+  </a> 👈
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="split">
@@ -32,6 +34,14 @@
 </div>
 
 <br/>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h3>📊</h3>
+  <img src="https://github.com/Chlx42/Chlx42/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 <!-- ### 💫 Tech Stack
 
